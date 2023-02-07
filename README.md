@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Firebase<br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning Docker<br>⚡ Fun fact "An eye for an eye doesn't make the whole world blind"<br>                                                                                     -Sun Tzu(probably)
+🔭 I’m currently working on my project<br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning Docker<br>⚡ Fun fact "An eye for an eye doesn't make the whole world blind"<br>                                                                                     -Sun Tzu(probably)
 
 
 ## 🌐 Socials:
