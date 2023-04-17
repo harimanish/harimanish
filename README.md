@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my project<br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning Docker<br>⚡ “Appear weak when you are strong, and strong when you are weak.”
+🔭 I’m currently working on my project<br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning NextJs<br>⚡ “Appear weak when you are strong, and strong when you are weak.”
 ― Sun Tzu, The Art of War
 
 
