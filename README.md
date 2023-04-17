@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on my project<br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning Docker<br>⚡ Fun fact "An eye for an eye doesn't make the whole world blind"<br>                                                                                     -Sun Tzu(probably)
+🔭 I’m currently working on my project<br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning Docker<br>⚡ Fun fact “Appear weak when you are strong, and strong when you are weak.”
+― Sun Tzu, The Art of War
 
 
 ## 🌐 Socials:
