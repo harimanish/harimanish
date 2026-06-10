@@ -1,3 +1,1 @@
-![harimanish's Stats](https://github-readme-stats.vercel.app/api?username=harimanish&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![harimanish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harimanish&theme=tokyonight&hide_border=true)
-![harimanish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harimanish&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<img src="https://imgs.search.brave.com/kmvr6SmSCO-Etirnccvf3pDxFao_8F-Hy730VTVCz2U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zLnlp/bWcuY29tL2xvL215/c3RlcmlvL2FwaS82/NDYyNmNlNjkwNDgx/NmMzMzBjMDI2NDli/ZDNjMDMyZjViNTA3/YjhmMTViYjc2NzA0/OTQ1MTM0ZWU0Mzc5/YmNjL2xpZ2h0eWVh/cl9uZXR3b3JrYXBp/L3Jlc2l6ZWZpbGxf/dzgwMF9oNDUwO3F1/YWxpdHlfODA7Zm9y/bWF0X3dlYnAvaHR0/cHM6Ly9tZWRpYS56/ZW5mcy5jb20vZW4v/a25vd195b3VyX21l/bWVfOTA5L2Y0NTRh/MWUzNGJlYWVkMTBm/ODdiNWI2YmVjY2Vj/YmVm" width="100%" alt="banner" />
