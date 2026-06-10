@@ -1,1 +1,3 @@
-<img src="https://github-readme-stats-five-sand.vercel.app/api/top-langs?username=sahaj-b&layout=compact&hide_title=true&hide_border=true&icon_color=4493F8&text_color=F0F6FC&bg_color=00000000&cache_seconds=21601&count_private=false" />
+![harimanish's Stats](https://github-readme-stats.vercel.app/api?username=harimanish&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![harimanish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harimanish&theme=tokyonight&hide_border=true)
+![harimanish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harimanish&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
